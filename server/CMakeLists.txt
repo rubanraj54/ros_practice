@@ -57,6 +57,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_service_files(
   FILES
   WordCount.srv
+  LastMessage.srv
 )
 
 ## Generate actions in the 'action' folder
