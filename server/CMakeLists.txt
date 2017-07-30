@@ -58,6 +58,7 @@ add_service_files(
   FILES
   WordCount.srv
   LastMessage.srv
+  Timer.srv
 )
 
 ## Generate actions in the 'action' folder
